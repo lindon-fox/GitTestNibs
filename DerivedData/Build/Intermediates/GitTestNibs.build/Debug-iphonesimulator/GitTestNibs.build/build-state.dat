@@ -1,0 +1,435 @@
+TGitTestNibs
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Info.plist GitTestNibs/GitTestNibs-Info.plist
+cProcessPCH /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.pth GitTestNibs/GitTestNibs-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs normal i386
+cGenerateDSYMFile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs
+cCpResource GitTestNibs/Default.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png
+cCpResource GitTestNibs/Default@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.png
+cCopyStringsFile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/InfoPlist.strings GitTestNibs/en.lproj/InfoPlist.strings
+cCpResource GitTestNibs/Default-568h@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.png
+cCpResource GitTestNibs/first.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png
+cCpResource GitTestNibs/first@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.png
+cCpResource GitTestNibs/second.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.png
+cCpResource GitTestNibs/second@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.png
+cCompileXIB /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib
+cCompileXIB /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xib
+cTouch /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk
+c0000000050B4482F0000000000000110
+t1353992239
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000050739A630000000000228FD0
+t1349753443
+s2265040
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000050739A6800000000003DCEF0
+t1349753448
+s4050672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000050739A6800000000000015F7
+t1349753448
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000050739A730000000000000E8D
+t1349753459
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000050739A750000000000AB3D60
+t1349753461
+s11222368
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk/usr/include/Availability.h
+c0000000050739A9F0000000000001B54
+t1349753503
+s6996
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/GitTestNibs.LinkFileList
+c0000000050EB776D00000000000002E6
+t1357608813
+s742
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.o
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.pth
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Info.plist
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/PkgInfo
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/FirstViewController.nib
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/SecondViewController.nib
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.png
+t2
+s0
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m
+c0000000050EB71A50000000000000C41
+t1357607333
+s3137
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/Default-568h@2x.png
+c000000005062328600000000000048A2
+t1348612742
+s18594
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/Default.png
+c0000000050623286000000000000198C
+t1348612742
+s6540
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/Default@2x.png
+c00000000506232860000000000003EEB
+t1348612742
+s16107
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m
+c0000000050EB71A50000000000000340
+t1357607333
+s832
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/GitTestNibs-Prefix.pch
+c0000000050EB71A4000000000000013F
+t1357607332
+s319
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m
+c0000000050EB71A50000000000000347
+t1357607333
+s839
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib
+c0000000050EB71A500000000000051BC
+t1357607333
+s20924
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/InfoPlist.strings
+c0000000050EB71A4000000000000002D
+t1357607332
+s45
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xib
+c0000000050EB71A500000000000053C6
+t1357607333
+s21446
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/first.png
+c000000005062328600000000000000FD
+t1348612742
+s253
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/first@2x.png
+c00000000506232860000000000000192
+t1348612742
+s402
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m
+c0000000050EB71A4000000000000014C
+t1357607332
+s332
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/second.png
+c00000000506232860000000000000080
+t1348612742
+s128
+
+N/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/second@2x.png
+c00000000506232860000000000000082
+t1348612742
+s130
+
+NGitTestNibs/GitTestNibs-Info.plist
+c0000000050EB71A40000000000000599
+t1357607332
+s1433
+
+CBuild AST from /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m
+r0
+
+CBuild AST from /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m
+r0
+
+CBuild AST from /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m
+r0
+
+CBuild AST from /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb16921edae9bb641^57245aedae9bb641^---0#1#0#--18"Check dependencies36"D1556162-1361-4244-B387-F95F6D36C411-
+
+CCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379301614.546275
+e379301614.776372
+r1
+xCompileC
+xDerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.o
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m020f8ceeae9bb641^b5c0c6eeae9bb641^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m0000000000000000^4200"CompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.o GitTestNibs/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-generated-files.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-own-target-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-all-target-headers.hmap -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-project-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources/i386 -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources -F/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch -MMD -MT dependencies -MF /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.dia -c /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/AppDelegate.m -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/AppDelegate.o36"0120E704-89E1-4C79-ADE8-0933B92464B5-
+
+CCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379301614.546400
+e379301614.771061
+r1
+xCompileC
+xDerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.o
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m90158ceeae9bb641^5f5dc5eeae9bb641^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m0000000000000000^4248"CompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.o GitTestNibs/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-generated-files.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-own-target-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-all-target-headers.hmap -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-project-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources/i386 -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources -F/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch -MMD -MT dependencies -MF /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.d --serialize-diagnostics /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.dia -c /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/FirstViewController.m -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/FirstViewController.o36"FA48A653-0F08-421B-9FA1-B4579B68753F-
+
+CCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379301614.546401
+e379301614.770905
+r1
+xCompileC
+xDerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.o
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.mf9148ceeae9bb641^1b65c5eeae9bb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m0000000000000000^4254"CompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.o GitTestNibs/SecondViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-generated-files.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-own-target-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-all-target-headers.hmap -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-project-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources/i386 -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources -F/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch -MMD -MT dependencies -MF /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.d --serialize-diagnostics /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.dia -c /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/SecondViewController.m -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/SecondViewController.o36"2A09862D-23DB-4EC3-BFCE-062CABFCA86B-
+
+CCompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379301614.546308
+e379301614.753921
+r1
+xCompileC
+xDerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.o
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m27128ceeae9bb641^1901c1eeae9bb641^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m0000000000000000^4158"CompileC DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.o GitTestNibs/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-generated-files.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-own-target-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-all-target-headers.hmap -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-project-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources/i386 -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources -F/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch -MMD -MT dependencies -MF /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.dia -c /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/main.m -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/main.o36"3E984FEF-B33F-44FC-AD59-D76FCABB3209-
+
+CCompileXIB /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib
+s379301615.434048
+e379301621.533571
+r1
+xCompileXIB
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compiling /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib8a3e6fefae9bb641^e19988f5ae9bb641^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib0000000000000000^1022"CompileXIB GitTestNibs/en.lproj/FirstViewController.xib    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/FirstViewController.nib /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/FirstViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"8666737E-0BE3-4F55-816D-07425C3E9E0D-
+
+CCompileXIB /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xib
+s379301615.435268
+e379301621.533985
+r1
+xCompileXIB
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compiling /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xibe17f6fefae9bb641^e5b388f5ae9bb641^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xib0000000000000000^1025"CompileXIB GitTestNibs/en.lproj/SecondViewController.xib    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/SecondViewController.nib /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/SecondViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk36"EC5C46C2-63B1-4A04-9E38-6CAA30630EC4-
+
+CCopyStringsFile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/InfoPlist.strings GitTestNibs/en.lproj/InfoPlist.strings
+s379301615.425402
+e379301615.431218
+r1
+xCopyStringsFile
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/InfoPlist.strings
+xGitTestNibs/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy GitTestNibs/en.lproj/InfoPlist.strings47216defae9bb641^b2646eefae9bb641^---0#0#0#-19%DVTDocumentLocation2@113"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/en.lproj/InfoPlist.strings0000000000000000^673"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj/InfoPlist.strings GitTestNibs/en.lproj/InfoPlist.strings    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/en.lproj -- GitTestNibs/en.lproj/InfoPlist.strings36"26AD7F59-8D5A-4725-917E-F72022A70114-
+
+CCpResource GitTestNibs/Default-568h@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.png
+s379301615.426070
+e379301615.431772
+r1
+xCpResource
+xGitTestNibs/Default-568h@2x.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.pnga12f6defae9bb641^65896eefae9bb641^---0#0#0#-19%DVTDocumentLocation2@159"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.png000000000080d041^722"CpResource "GitTestNibs/Default-568h@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default-568h@2x.png"    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/Default-568h@2x.png" /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"61019963-5A69-4791-896B-227902E274C2-
+
+CCpResource GitTestNibs/Default.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png
+s379301615.425391
+e379301615.429486
+r1
+xCpResource
+xGitTestNibs/Default.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png33166defae9bb641^73f36defae9bb641^---0#0#0#-19%DVTDocumentLocation2@151"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png000000000080d041^692"CpResource GitTestNibs/Default.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default.png    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/Default.png /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"F71E3552-51A7-43EF-B701-BD9BC5E8836A-
+
+CCpResource GitTestNibs/Default@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.png
+s379301615.425399
+e379301615.428846
+r1
+xCpResource
+xGitTestNibs/Default@2x.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.pnge0116defae9bb641^5cca6defae9bb641^---0#0#0#-19%DVTDocumentLocation2@154"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.png000000000080d041^707"CpResource "GitTestNibs/Default@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Default@2x.png"    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/Default@2x.png" /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"2AFF562F-0306-4EB0-B22A-9CDD7546E90A-
+
+CCpResource GitTestNibs/first.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png
+s379301615.430614
+e379301615.432900
+r1
+xCpResource
+xGitTestNibs/first.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png33536eefae9bb641^edd26eefae9bb641^---0#0#0#-19%DVTDocumentLocation2@149"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png000000000080d041^686"CpResource GitTestNibs/first.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first.png    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/first.png /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"00DA15A8-FCF3-46AA-B627-58D6F4AE527B-
+
+CCpResource GitTestNibs/first@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.png
+s379301615.430663
+e379301615.434118
+r1
+xCpResource
+xGitTestNibs/first@2x.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.pngf8546eefae9bb641^e2226fefae9bb641^---0#0#0#-19%DVTDocumentLocation2@152"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.png000000000080d041^701"CpResource "GitTestNibs/first@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/first@2x.png"    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/first@2x.png" /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"8402AC67-3BAC-45B3-857E-75196C3D0FCF-
+
+CCpResource GitTestNibs/second.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.png
+s379301615.432386
+e379301615.435079
+r1
+xCpResource
+xGitTestNibs/second.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.pngd3c16eefae9bb641^41626fefae9bb641^---0#0#0#-19%DVTDocumentLocation2@150"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.png000000000080d041^689"CpResource GitTestNibs/second.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second.png    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/second.png /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"5A9FD8BB-1CF7-4278-93E5-3F739C9ADD5F-
+
+CCpResource GitTestNibs/second@2x.png DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.png
+s379301615.432638
+e379301615.436117
+r1
+xCpResource
+xGitTestNibs/second@2x.png
+xDerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Copy DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.pngf9d76eefae9bb641^33a76fefae9bb641^---0#0#0#-19%DVTDocumentLocation2@153"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.png000000000080d041^704"CpResource "GitTestNibs/second@2x.png" "DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/second@2x.png"    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/second@2x.png" /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"E3DFAEB1-A7DD-4516-A96F-B26983B7AE03-
+
+CGenerateDSYMFile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs
+s379301615.356892
+e379301615.416359
+r1
+xGenerateDSYMFile
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Generating /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYMe7725befae9bb641^18976aefae9bb641^---0#0#0#-19%DVTDocumentLocation2@144"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM000000000080d041^793"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app.dSYM36"817B5334-ABA6-4596-85E4-EB3EBC59D96F-
+
+CLd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs normal i386
+s379301614.784064
+e379301615.349334
+r1
+xLd
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection140"Link /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs79e7c8eeae9bb641^116f59efae9bb641^---0#0#0#--1374"Ld DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs normal i386    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv IPHONEOS_DEPLOYMENT_TARGET 6.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -L/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/Objects-normal/i386/GitTestNibs.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.0 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/GitTestNibs36"5DEC87B2-BB09-4DA4-8A5D-BAD2D2261FAC-
+
+CProcessInfoPlistFile /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Info.plist GitTestNibs/GitTestNibs-Info.plist
+s379301613.396453
+e379301613.402233
+r1
+xProcessInfoPlistFile
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Info.plist
+xGitTestNibs/GitTestNibs-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process GitTestNibs/GitTestNibs-Info.plistffb065edae9bb641^38f866edae9bb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/GitTestNibs-Info.plist0000000000000000^801"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Info.plist GitTestNibs/GitTestNibs-Info.plist    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GitTestNibs/GitTestNibs-Info.plist -genpkginfo /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app/Info.plist36"BADF8CC5-7D30-45DB-A9C7-029379435367-
+
+CProcessPCH /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.pth GitTestNibs/GitTestNibs-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s379301613.411316
+e379301614.538521
+r1
+xProcessPCH
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.pth
+xGitTestNibs/GitTestNibs-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile GitTestNibs/GitTestNibs-Prefix.pch7d9469edae9bb641^83dc89eeae9bb641^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/GitTestNibs-Prefix.pch0000000000000000^4041"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.pth GitTestNibs/GitTestNibs-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -mios-simulator-version-min=6.0 -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-generated-files.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-own-target-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-all-target-headers.hmap -iquote /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/GitTestNibs-project-headers.hmap -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources/i386 -I/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/GitTestNibs.build/Debug-iphonesimulator/GitTestNibs.build/DerivedSources -F/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.dia -c /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/GitTestNibs/GitTestNibs-Prefix.pch -o /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.pth -MMD -MT dependencies -MF /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Intermediates/PrecompiledHeaders/GitTestNibs-Prefix-fhjznprixcdbzsamtgqvwfvahcob/GitTestNibs-Prefix.pch.d36"8CCAF9F6-FD81-4E11-AF32-C6F2C32AE159-
+
+CProcessPCH /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/GitTestNibs/Index/PrecompiledHeaders/GitTestNibs-Prefix-fusaqajidcuwdpdthflimuhpvqph_ast/GitTestNibs-Prefix.pch.pth GitTestNibs/GitTestNibs-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app
+s379301621.550158
+e379301621.555836
+r1
+xTouch
+x/Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Touch /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app80f18cf5ae9bb641^73638ef5ae9bb641^---0#0#0#--478"Touch DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app    cd /Users/Johnnie/Documents/Development/Utilities/GitTestNibs    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Johnnie/Documents/Development/Utilities/GitTestNibs/DerivedData/Build/Products/Debug-iphonesimulator/GitTestNibs.app36"4B06D886-5FD8-4E20-99EB-A39097AC611A-
+
